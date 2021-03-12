@@ -1,4 +1,4 @@
-title: scratch3-add-costumes-to-a-sprite
+title: Add costumes to a sprite
 hero_image: images/banner.png
 description: scratch3-add-costumes-to-a-sprite description
 version: 4
@@ -6,6 +6,4 @@ listed: false
 copyedit: false
 last_tested: "2021-03-12"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Add costumes to a sprite
