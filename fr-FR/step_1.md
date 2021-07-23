@@ -4,5 +4,5 @@ Click on the **Costumes** tab and then on **Choose a Costume** to add any costum
 
 You will need to position and resize the added costume in the Paint editor, to match the sprite's other costumes.
 
-**Tip:** If you position a sprite on the Stage and then change its costume, the sprite might appear to 'jump' or change size. You will need to position and resize the costumes in the Paint editor so that they all appear in the right position on the Stage.
+**Astuce :** Si tu places un sprite sur la scène et ensuite que tu changes de costume, le sprite peut sembler « sauter » ou changer de taille. Tu devras positionner et redimensionner les costumes dans l'**éditeur de peinture** afin qu'ils apparaissent tous à la bonne position sur la scène.
 
