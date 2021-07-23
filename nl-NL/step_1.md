@@ -1,9 +1,8 @@
-Klik op het **Uiterlijken** tabblad en dan op **Kies een uiterlijk** om een uiterlijk aan de sprite toe te voegen.
+Click on the **Costumes** tab and then on **Choose a Costume** to add any costume to the sprite from the Costume Library:
 
-![Het 'Kies een uiterlijk' menu gemarkeerd.](images/choose-a-costume.png)
+![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
 
-Je zult de plaats en grootte van de toegevoegde uiterlijken in de **Teken-editor** moeten aanpassen zodat het met de andere uiterlijken overeenkomt.
+You will need to position and resize the added costume in the Paint editor, to match the sprite's other costumes.
 
-
-**Tip:** Als je een sprite op een bepaalde plaats op het Speelveld hebt staan en dan het uiterlijk verandert, kan het lijken of de sprite 'springt' of van grootte verandert. Je zult de plaats en grootte van de toegevoegde uiterlijken in de **Teken-editor** moeten aanpassen zodat het op de juiste plek op het Speelveld komt te staan.
+**Tip:** If you position a sprite on the Stage and then change its costume, the sprite might appear to 'jump' or change size. You will need to position and resize the costumes in the Paint editor so that they all appear in the right position on the Stage.
 
