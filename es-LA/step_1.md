@@ -1,8 +1,8 @@
-Click on the **Costumes** tab and then on **Choose a Costume** to add any costume to the sprite from the Costume Library:
+Haz clic en la pestaña **Disfraces** y luego en **Escoger un disfraz** para añadir cualquier disfraz al objeto desde la Biblioteca de Disfraces:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+![El ícono 'Escoger un disfraz' resaltado.](images/choose-a-costume.png)
 
-You will need to position and resize the added costume in the Paint editor, to match the sprite's other costumes.
+Deberás posicionar y cambiar el tamaño del disfraz añadido en el Editor de dibujo, para que coincida con los otros disfraces del objeto.
 
 **Consejo:** Si colocas un objeto en el Escenario y luego cambias de disfraz, es posible que el objeto parezca "saltar" o cambiar de tamaño. Deberás posicionar y cambiar el tamaño de los disfraces en el Editor de dibujo para que todos aparezcan en la posición correcta en el escenario.
 
