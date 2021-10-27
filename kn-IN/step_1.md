@@ -1,8 +1,8 @@
-Click on the **Costumes** tab and then on **Choose a Costume** to add any costume to the sprite from the Costume Library:
+ಕಾಸ್ಟ್ಯೂಮ್ ಲೈಬ್ರರಿಯಿಂದ ಸ್ಪ್ರೈಟ್‌ಗೆ ಯಾವುದೇ ವೇಷಭೂಷಣವನ್ನು ಸೇರಿಸಲು **Costumes** ಟ್ಯಾಬ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಂತರ **Choose a Costume** ಕ್ಲಿಕ್ ಮಾಡಿ:
 
 ![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
 
-You will need to position and resize the added costume in the Paint editor, to match the sprite's other costumes.
+ಸ್ಪ್ರೈಟ್‌ನ ಇತರ ವೇಷಭೂಷಣಗಳನ್ನು ಹೊಂದಿಸಲು ನೀವು ಪೇಂಟ್ ಎಡಿಟರ್‌ನಲ್ಲಿ ಸೇರಿಸಿದ ವೇಷಭೂಷಣವನ್ನು ಇರಿಸಬೇಕು ಮತ್ತು ಮರುಗಾತ್ರಗೊಳಿಸಬೇಕು.
 
-**Tip:** If you position a sprite on the Stage and then change its costume, the sprite might appear to 'jump' or change size. You will need to position and resize the costumes in the Paint editor so that they all appear in the right position on the Stage.
+**Tip:** ನೀವು ವೇದಿಕೆಯಲ್ಲಿ ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಇರಿಸಿದರೆ ಮತ್ತು ನಂತರ ಅದರ ಉಡುಪನ್ನು ಬದಲಾಯಿಸಿದರೆ, ಸ್ಪ್ರೈಟ್ 'jump' ಅಥವಾ ಗಾತ್ರವನ್ನು ಬದಲಾಯಿಸುವಂತೆ ಕಾಣಿಸಬಹುದು. ನೀವು ಪೇಂಟ್ ಎಡಿಟರ್‌ನಲ್ಲಿ ವೇಷಭೂಷಣಗಳು ಸರಿಯಾದ ಸ್ಥಾನದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳಲು ಅದರ ಸ್ಥಾನ ಮತ್ತು ಮರುಗಾತ್ರಗೊಳಿಸ ಬೇಕಾಗಬಹುದು.
 
