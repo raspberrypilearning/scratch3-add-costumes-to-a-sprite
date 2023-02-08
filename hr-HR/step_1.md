@@ -1,8 +1,8 @@
-Click on the **Costumes** tab and then on **Choose a Costume** to add any costume to the sprite from the Costume Library:
+Klikni na karticu **Kostimi**, a zatim na **Odaberi kostim** da liku dodaš bilo koji kostim iz Biblioteke kostima:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+![Istaknuta ikona „Odaberi kostim”.](images/choose-a-costume.png)
 
-You will need to position and resize the added costume in the Paint editor, to match the sprite's other costumes.
+Morati ćeš pozicionirati kostim i promijeniti mu veličinu u Paint uređivaču kako bi odgovarao drugim kostimima lika.
 
-**Tip:** If you position a sprite on the Stage and then change its costume, the sprite might appear to 'jump' or change size. You will need to position and resize the costumes in the Paint editor so that they all appear in the right position on the Stage.
+**Savjet:** ako postaviš lika na pozornicu i zatim mu promijeniš kostim, može ti se činiti kao da lik skače ili mijenja veličinu. Morati ćeš pozicionirati kostime i promijeniti im veličinu u Paint uređivaču tako da se svi kostimi pojave na pravom mjestu na pozornici.
 
