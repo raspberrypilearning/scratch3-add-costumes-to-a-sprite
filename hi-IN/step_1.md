@@ -1,8 +1,8 @@
-Click on the **Costumes** tab and then on **Choose a Costume** to add any costume to the sprite from the Costume Library:
+**Costumes** टैब पर क्लिक करें, और फिर **Choose a Costume** पर क्लिक करके, पोशाक लाइब्रेरी में से स्प्राइट के लिए कोई भी पोशाक को जोड़ें:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+!['Choose a Costume' आइकन हाइलाइट किया गया।](images/choose-a-costume.png)
 
-You will need to position and resize the added costume in the Paint editor, to match the sprite's other costumes.
+स्प्राइट की अन्य पोशाकों से मेल रखने के लिए आपको पेंट संपादक में जोड़े गए पोशाक की स्थिति और आकार बदलने की आवश्यकता होगी।
 
-**Tip:** If you position a sprite on the Stage and then change its costume, the sprite might appear to 'jump' or change size. आपको पेंट संपादक में पोशाकों की स्थिति और आकार बदलने की आवश्यकता होगी ताकि वे सभी मंच पर सही स्थिति में दिखाई दें।
+**टिप:** यदि आप मंच पर एक स्प्राइट रखते हैं और फिर उसकी पोशाक बदलते हैं, तो स्प्राइट 'कूद' या आकार बदलते हुए दिखाई दे सकता है। आपको पेंट संपादक में पोशाकों की स्थिति और आकार बदलने की आवश्यकता होगी ताकि वे सभी मंच पर सही स्थिति में दिखाई दें।
 
