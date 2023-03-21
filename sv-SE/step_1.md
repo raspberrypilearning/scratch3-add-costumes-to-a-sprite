@@ -1,8 +1,8 @@
-Click on the **Costumes** tab and then on **Choose a Costume** to add any costume to the sprite from the Costume Library:
+Klicka på **Klädsel**fliken och sedan på **Välj en klädsel** för att lägga till valfri klädsel till sprajten från klädselbiblioteket:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+!["Välj en klädsel"-ikonen markerad.](images/choose-a-costume.png)
 
-You will need to position and resize the added costume in the Paint editor, to match the sprite's other costumes.
+Du måste placera och ändra storlek på den tillagda klädseln i målarredigeraren för att matcha sprajtens andra klädslar.
 
-**Tip:** If you position a sprite on the Stage and then change its costume, the sprite might appear to 'jump' or change size. You will need to position and resize the costumes in the Paint editor so that they all appear in the right position on the Stage.
+**Tips:** Om du placerar en sprajt på scenen och sedan byter dess klädsel, kan sprajten se ut att "hoppa" eller ändra storlek. Du måste placera och ändra storlek på klädslarna i målarredigeraren så att de alla visas på rätt plats på scenen.
 
