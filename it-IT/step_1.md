@@ -1,8 +1,8 @@
-Click on the **Costumes** tab and then on **Choose a Costume** to add any costume to the sprite from the Costume Library:
+Fai clic sulla scheda **Costumi** e poi su **Scegli un costume** per aggiungere qualsiasi costume all'immagine dalla libreria costumi:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+![L'icona "Scegli un costume" evidenziata.](images/choose-a-costume.png)
 
-You will need to position and resize the added costume in the Paint editor, to match the sprite's other costumes.
+Dovrai posizionare e ridimensionare il costume aggiunto nell'editor di Paint, in modo che corrisponda agli altri costumi dell'immagine.
 
-**Tip:** If you position a sprite on the Stage and then change its costume, the sprite might appear to 'jump' or change size. You will need to position and resize the costumes in the Paint editor so that they all appear in the right position on the Stage.
+**Suggerimento:** Se posizioni una immagine sul palco e poi cambi il suo costume, l'immagine potrebbe sembrare "saltare" o cambiare dimensione. Dovrai posizionare e ridimensionare i costumi nell'editor di Paint in modo che appaiano tutti nella giusta posizione sullo Stage.
 
