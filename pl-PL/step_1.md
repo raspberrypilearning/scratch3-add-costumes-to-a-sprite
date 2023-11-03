@@ -1,8 +1,8 @@
-Click on the **Costumes** tab and then on **Choose a Costume** to add any costume to the sprite from the Costume Library:
+Kliknij zakładkę **Kostiumy**, a następnie **Wybierz kostium**, aby dodać dowolny kostium do duszka z Biblioteki kostiumów:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+![Podświetlona ikona „Wybierz kostium”.](images/choose-a-costume.png)
 
-You will need to position and resize the added costume in the Paint editor, to match the sprite's other costumes.
+Będziesz musiał ustawić i zmienić rozmiar dodanego kostiumu w edytorze Paint, aby pasował do innych kostiumów duszka.
 
-**Tip:** If you position a sprite on the Stage and then change its costume, the sprite might appear to 'jump' or change size. You will need to position and resize the costumes in the Paint editor so that they all appear in the right position on the Stage.
+**Wskazówka:** Jeśli umieścisz duszka na scenie, a następnie zmienisz jego kostium, duszek może „skakać” lub zmieniać rozmiar. Będziesz musiał ustawić i zmienić rozmiar kostiumów w edytorze Paint, aby wszystkie były wyświetlane we właściwej pozycji na scenie.
 
