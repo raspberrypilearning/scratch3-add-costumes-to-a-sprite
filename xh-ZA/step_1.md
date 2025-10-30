@@ -1,8 +1,8 @@
-Click on the **Costumes** tab and then on **Choose a Costume** to add any costume to the sprite from the Costume Library:
+Cofa kwithebhu **Isinxibo** uze ucofe u**Khetha Isinxibo** ukuze unxibise isprite sakho isinxibo osikhethileyo kwiThala leSinxibo:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+![Uphawu 'Khetha isinxibo' luphawuliwe.](images/choose-a-costume.png)
 
-You will need to position and resize the added costume in the Paint editor, to match the sprite's other costumes.
+Kuya kufuneka ubeke kwaye ulinganise kwakhona isinxibo esongeziweyo kumhleli wePaint, ukuze ufanise esisinxibo nezinye iimpahla zesprite.
 
-**Tip:** If you position a sprite on the Stage and then change its costume, the sprite might appear to 'jump' or change size. You will need to position and resize the costumes in the Paint editor so that they all appear in the right position on the Stage.
+<0>Ingcebiso:</0> Ukuba ubeka i-sprite kwiqonga kwaye emva koko utshintshe isinxibo sayo, i-sprite sinokubonakala 'sitsiba' okanye sitshintshe ubukhulu. Kuya kufuneka ubeke kwaye ulungise ubukhulu besinxibo kumhleli wePaint ukuze zonke zivele kwindawo elungileyo kwiQonga.
 
